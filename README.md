@@ -18,7 +18,7 @@ Cette application permet de gérer les opérations classiques d’une banque via
 
 - Java 17 (JDK 17)
 - JavaFX pour le développement de l’interface utilisateur graphique.
-- Maven ou Gradle pour la gestion du projet et des dépendances.
+- Maven pour la gestion du projet et des dépendances.
 
 ## Objectif
 
